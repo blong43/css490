@@ -1,0 +1,25 @@
+body{
+	background-color: #4C5ED9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	/*background-image: url("../img/stardust.png");*/
+	/*background-image: url("../img/background_galaxy_mega_red.png");*/
+	/*background-image: url("../img/background_galaxy_mega.jpg");*/	
+	background-image: url("../img/wallhaven-minecraft.png");
+	/*background-image: url("../img/bg_orange.png"); background-repeat: repeat-x;background-size: contain;*/
+
+}
+
+discount{
+	background-image: url('http://www.wpclipart.com/holiday/Christmas/Christmas_signs/sale_tag/holiday_sale_tag_stars_gold_T.png');
+}
+.discounted
+{
+	 background:#CA1315;
+}
+.limited
+{
+	background:#13CAC8;
+}
